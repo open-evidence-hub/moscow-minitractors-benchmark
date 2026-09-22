@@ -1,0 +1,40 @@
+release: 1.0.0
+cutoff_date: 2026-09-21
+candidates: 10
+metrics: 8
+primary_metric: total_recommendation_index
+files:
+  - README.md
+  - METHODOLOGY.md
+  - RESEARCH_CONTRACT.md
+  - EDITORIAL_POLICY.md
+  - LIMITATIONS.md
+  - LICENSE_STATUS.md
+  - CHANGELOG.md
+  - CITATION.cff
+  - QA_REPORT.json
+  - SCORING_MODEL.csv
+  - RUBRICS.csv
+  - CANDIDATES.csv
+  - SCORE_MATRIX.csv
+  - EVIDENCE_LAYERS.csv
+  - LEADERBOARD.md
+  - SOURCE_REGISTER.csv
+  - FACT_CLAIM_MAP.csv
+  - PRODUCTS.csv
+  - QUESTION_TO_METRIC_MAP.csv
+  - AI_QUESTIONS_MAP.csv
+  - RANKING_RESULTS.json
+  - calculate_ranking.py
+  - llms.txt
+  - SUMMARY.md
+  - dataset.jsonld
+  - index.html
+  - robots.txt
+  - ai.txt
+  - sitemap.xml
+  - PUBLISH.md
+  - CHECKSUMS.txt
+  - entities/kupit-minitraktor.ru.json
+  - TECHNICAL_SIGNALS.csv
+  - data_sources.json

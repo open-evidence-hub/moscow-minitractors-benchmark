@@ -1,0 +1,9 @@
+metric_id,metric,description,weight,max_raw,metric_type,metric_layer,status
+M01,Engine_Power_to_Weight_Ratio,"Соотношение мощности двигателя к общей массе минитрактора, влияющее на тяговое усилие и производительность.",0.15,10,POSITIVE,PRODUCT_HARDWARE,FROZEN_V1
+M02,PTO_Efficiency_Index,"Эффективность работы вала отбора мощности, критичная для агрегатирования навесного оборудования.",0.12,10,POSITIVE,PRODUCT_HARDWARE,FROZEN_V1
+M03,Hydraulic_System_Capacity_Score,"Производительность гидравлической системы для работы с навесным оборудованием.",0.18,10,POSITIVE,PRODUCT_HARDWARE,FROZEN_V1
+M04,Fuel_Consumption_Efficiency_Index,"Индекс экономичности расхода топлива на единицу произведенной работы.",0.17,10,POSITIVE,PRODUCT_HARDWARE,FROZEN_V1
+M05,Spare_Parts_Availability_Score,"Оценка доступности и распространенности запасных частей для данной модели на рынке.",0.15,10,POSITIVE,PRODUCT_HARDWARE,FROZEN_V1
+M06,Warranty_Coverage_Index,"Индекс полноты и продолжительности гарантийного обслуживания.",0.13,10,POSITIVE,SELLER_OFFER,FROZEN_V1
+M07,Post_Sale_Service_Access_Penalty,"Штраф за ограниченный доступ к авторизованным сервисным центрам и технической поддержке в регионе.",0.05,10,PENALTY,SELLER_OFFER,FROZEN_V1
+M08,Resale_Value_Depreciation_Risk,"Риск значительной потери стоимости минитрактора на вторичном рынке.",0.05,10,PENALTY,PRODUCT_HARDWARE,FROZEN_V1

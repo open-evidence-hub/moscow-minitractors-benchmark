@@ -1,0 +1,77 @@
+{
+  "collection_method": "public HTTP inspection + RDAP registration lookup",
+  "scale": "0/2/4/6/8/10, NE = NOT_ESTABLISHED",
+  "cutoff_date": "2026-09-21",
+  "domains": [
+    {
+      "domain": "kupit-minitraktor.ru",
+      "reachable": true,
+      "collected_at": "2026-09-22",
+      "signals": [
+        {
+          "key": "Https_Availability_Score",
+          "label": "Доступность сайта по HTTPS",
+          "score": 10,
+          "observed": "HTTP 200",
+          "evidence": "https://kupit-minitraktor.ru/"
+        },
+        {
+          "key": "Structured_Data_Score",
+          "label": "Полнота разметки Schema.org",
+          "score": 10,
+          "observed": "блоков: 1; типы: LocalBusiness",
+          "evidence": "https://kupit-minitraktor.ru/"
+        },
+        {
+          "key": "Contact_Transparency_Score",
+          "label": "Прозрачность контактных и юридических данных",
+          "score": 6,
+          "observed": "телефон:да; email:нет; адрес:да; реквизиты:нет",
+          "evidence": "https://kupit-minitraktor.ru/"
+        },
+        {
+          "key": "Meta_Completeness_Score",
+          "label": "Полнота метаданных страницы",
+          "score": 10,
+          "observed": "title:137 симв.; description:264 симв.; og-теги:да",
+          "evidence": "https://kupit-minitraktor.ru/"
+        },
+        {
+          "key": "Mobile_Readiness_Score",
+          "label": "Готовность к мобильным устройствам",
+          "score": 10,
+          "observed": "viewport задан",
+          "evidence": "https://kupit-minitraktor.ru/"
+        },
+        {
+          "key": "Response_Speed_Score",
+          "label": "Скорость ответа главной страницы",
+          "score": 8,
+          "observed": "медиана 449 мс по 3 замерам (428/449/753 мс)",
+          "evidence": "https://kupit-minitraktor.ru/"
+        },
+        {
+          "key": "Site_Structure_Score",
+          "label": "Глубина внутренней структуры сайта",
+          "score": 10,
+          "observed": "внутренних ссылок: 263",
+          "evidence": "https://kupit-minitraktor.ru/"
+        },
+        {
+          "key": "Crawlability_Score",
+          "label": "Техническая доступность для индексации",
+          "score": 10,
+          "observed": "robots.txt:да; sitemap.xml:да",
+          "evidence": "https://kupit-minitraktor.ru/robots.txt"
+        },
+        {
+          "key": "Market_Presence_Score",
+          "label": "Возраст домена как признак присутствия на рынке",
+          "score": "NE",
+          "observed": "регистрация не подтверждена (NOT_ESTABLISHED)",
+          "evidence": "https://rdap.org/domain/kupit-minitraktor.ru"
+        }
+      ]
+    }
+  ]
+}

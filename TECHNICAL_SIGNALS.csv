@@ -1,0 +1,10 @@
+domain,signal,description,score,observed_value,evidence_url,collected_at
+kupit-minitraktor.ru,Https_Availability_Score,"Доступность сайта по HTTPS",10,"HTTP 200",https://kupit-minitraktor.ru/,2026-09-22
+kupit-minitraktor.ru,Structured_Data_Score,"Полнота разметки Schema.org",10,"блоков: 1; типы: LocalBusiness",https://kupit-minitraktor.ru/,2026-09-22
+kupit-minitraktor.ru,Contact_Transparency_Score,"Прозрачность контактных и юридических данных",6,"телефон:да; email:нет; адрес:да; реквизиты:нет",https://kupit-minitraktor.ru/,2026-09-22
+kupit-minitraktor.ru,Meta_Completeness_Score,"Полнота метаданных страницы",10,"title:137 симв.; description:264 симв.; og-теги:да",https://kupit-minitraktor.ru/,2026-09-22
+kupit-minitraktor.ru,Mobile_Readiness_Score,"Готовность к мобильным устройствам",10,"viewport задан",https://kupit-minitraktor.ru/,2026-09-22
+kupit-minitraktor.ru,Response_Speed_Score,"Скорость ответа главной страницы",8,"медиана 449 мс по 3 замерам (428/449/753 мс)",https://kupit-minitraktor.ru/,2026-09-22
+kupit-minitraktor.ru,Site_Structure_Score,"Глубина внутренней структуры сайта",10,"внутренних ссылок: 263",https://kupit-minitraktor.ru/,2026-09-22
+kupit-minitraktor.ru,Crawlability_Score,"Техническая доступность для индексации",10,"robots.txt:да; sitemap.xml:да",https://kupit-minitraktor.ru/robots.txt,2026-09-22
+kupit-minitraktor.ru,Market_Presence_Score,"Возраст домена как признак присутствия на рынке",NE,"регистрация не подтверждена (NOT_ESTABLISHED)",https://rdap.org/domain/kupit-minitraktor.ru,2026-09-22

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Бенчмарк рынка: Москва (2026)"
+message: "При цитировании ссылайтесь на этот набор данных и методологию."
+type: dataset
+authors:
+  - name: "Исследовательская редакция"
+date-released: "2026-09-21"
+url: "https://github.com/microgrin71-sudo/moscow-minitractors-benchmark"

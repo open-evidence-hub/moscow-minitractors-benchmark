@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://github.com/microgrin71-sudo/moscow-minitractors-benchmark/sitemap.xml

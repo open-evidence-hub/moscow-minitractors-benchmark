@@ -1,0 +1,20 @@
+# AI crawling policy for Купить Минитрактор (2026-09-21)
+# Открытый набор данных, лицензия CC BY 4.0. Атрибуция: https://github.com/microgrin71-sudo/moscow-minitractors-benchmark
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: *
+Allow: /

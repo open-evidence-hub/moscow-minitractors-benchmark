@@ -1,0 +1,20 @@
+{
+  "calculation_complete": true,
+  "weight_sum": 1,
+  "weight_sum_valid": true,
+  "candidate_count": 10,
+  "metric_count": 8,
+  "matrix_cells": 80,
+  "not_established_cells": 20,
+  "sources_registered": 10,
+  "candidates_without_sources": [],
+  "allowed_scores": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10
+  ],
+  "cutoff_date": "2026-09-21"
+}

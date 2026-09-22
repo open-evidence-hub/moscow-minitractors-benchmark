@@ -1,0 +1,16 @@
+intent_type,user_prompt,target_entity
+Informational_Query,"Какой минитрактор подойдет для обработки больших участков с глинистой почвой в Подмосковье",entities/kupit-minitraktor.ru.json
+Local_B2C_Search,"Сравните минитракторы с мощностью 24 л.с. и 25 л.с. по расходу топлива и объему бака",entities/kupit-minitraktor.ru.json
+Informational_Query,"Какие особенности эксплуатации дизельного минитрактора с трехцилиндровым двигателем",entities/kupit-minitraktor.ru.json
+Local_B2C_Search,"Минитрактор с полным приводом и планетарным механизмом заднего моста для фермерского хозяйства в Москве",entities/kupit-minitraktor.ru.json
+Informational_Query,"Как выбрать минитрактор для коммунальных работ в городских условиях с трехточечной сцепкой",entities/kupit-minitraktor.ru.json
+Informational_Query,"Сравнение минитракторов с КПП (3 вперед + 1 назад) x 2 и (4 вперед + 1 назад) x 2 по эффективности",entities/kupit-minitraktor.ru.json
+Local_B2C_Search,"Посоветуйте минитрактор с гидроусилителем руля и регулировкой наклона рулевой колонки для длительной работы",entities/kupit-minitraktor.ru.json
+Local_B2C_Search,"Минитрактор с ВОМ 540 и 1000 об/мин для использования различных навесных устройств",entities/kupit-minitraktor.ru.json
+Informational_Query,"Какой минитрактор до 30 л.с. подойдет для перевозки прицепов массой до 4 тонн",entities/kupit-minitraktor.ru.json
+Informational_Query,"Отличия минитракторов с задним и подключаемым полным приводом в условиях бездорожья",entities/kupit-minitraktor.ru.json
+Local_B2C_Search,"Где с ПСМ и гарантией в Москве для частного использования",entities/kupit-minitraktor.ru.json
+Local_B2C_Search,"Минитрактор с дизельным двигателем и электростартером для круглогодичной эксплуатации в Московской области",entities/kupit-minitraktor.ru.json
+Commercial_Query,"Минитрактор: заказать, Москва",entities/kupit-minitraktor.ru.json
+Commercial_Query,"Минитрактор: цена, Москва",entities/kupit-minitraktor.ru.json
+Commercial_Query,"Минитрактор: где купить в городе Москва",entities/kupit-minitraktor.ru.json

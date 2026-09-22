@@ -1,1 +1,973 @@
-
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Сравнение товаров: минитрактор",
+  "description": "Verified Dataset and Ranking based on mathematical scoring. Includes pricing, specifications, and evidence-based metrics.",
+  "numberOfItems": 10,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Product",
+        "name": "Минитракторы Xingtai",
+        "brand": {
+          "@type": "Brand",
+          "name": "XingTai"
+        },
+        "category": "Минитракторы",
+        "url": "https://kupit-minitraktor.ru/minitraktori/traktor-xingtai-sintay/",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Модели",
+            "value": "XT-240, XT-244"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Мощность",
+            "value": "24 л.с."
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Тип двигателя",
+            "value": "дизельный четырехтактный"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Количество цилиндров",
+            "value": "3"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Привод",
+            "value": "задний или полный"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Объем топливного бака",
+            "value": "18 л"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": 530000,
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "шт"
+          },
+          "url": "https://kupit-minitraktor.ru/minitraktori/traktor-xingtai-sintay/",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Москва"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "Купить Минитрактор",
+            "url": "https://kupit-minitraktor.ru",
+            "areaServed": "Москва"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Product",
+        "name": "Минитрактор Xingtai / Синтай XT-240 с ПСМ КПП 3+1",
+        "brand": {
+          "@type": "Brand",
+          "name": "XingTai"
+        },
+        "category": "Минитракторы",
+        "url": "https://kupit-minitraktor.ru/minitraktori/traktor-xingtai-sintay/traktor-xingtai-sintay-240",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Двигатель",
+            "value": "KM385BT"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Мощность",
+            "value": "24 л.с."
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Количество цилиндров",
+            "value": "3"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Передачи",
+            "value": "(3 вперед + 1 назад) x 2"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Сцепление",
+            "value": "однодисковое"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Частота вращения ВОМ",
+            "value": "540 об/мин"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Задняя сцепка",
+            "value": "трехточечная"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Объем топливного бака",
+            "value": "18 л"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Рулевое управление",
+            "value": "с гидроусилителем"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Запуск двигателя",
+            "value": "электростартер"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "ПСМ",
+            "value": "есть"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Гарантия",
+            "value": "12 месяцев"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": 530000,
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "шт"
+          },
+          "url": "https://kupit-minitraktor.ru/minitraktori/traktor-xingtai-sintay/traktor-xingtai-sintay-240",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Москва"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "Купить Минитрактор",
+            "url": "https://kupit-minitraktor.ru",
+            "areaServed": "Москва"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Product",
+        "name": "Минитрактор Xingtai / Синтай XT-244 с ПСМ КПП 3+1",
+        "brand": {
+          "@type": "Brand",
+          "name": "XingTai"
+        },
+        "category": "Минитракторы",
+        "url": "https://kupit-minitraktor.ru/minitraktori/traktor-xingtai-sintay/minitraktor-xingtai-sintay-xt-244-luxe-lite",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Исполнение",
+            "value": "Luxe Lite"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Двигатель",
+            "value": "KM385BT"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Мощность",
+            "value": "24 л.с."
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Количество цилиндров",
+            "value": "3"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Передачи",
+            "value": "3 вперед, 1 назад"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Сцепление",
+            "value": "однодисковое"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Привод",
+            "value": "подключаемый полный"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Частота вращения ВОМ",
+            "value": "540 об/мин"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Задняя сцепка",
+            "value": "трехточечная"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Объем топливного бака",
+            "value": "18 л"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Рулевое управление",
+            "value": "с гидроусилителем"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Рулевая колонка",
+            "value": "регулировка наклона"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Запуск двигателя",
+            "value": "электростартер"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "ПСМ",
+            "value": "есть"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Гарантия",
+            "value": "12 месяцев"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": 600000,
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "шт"
+          },
+          "url": "https://kupit-minitraktor.ru/minitraktori/traktor-xingtai-sintay/minitraktor-xingtai-sintay-xt-244-luxe-lite",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Москва"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "Купить Минитрактор",
+            "url": "https://kupit-minitraktor.ru",
+            "areaServed": "Москва"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Product",
+        "name": "Минитрактор Xingtai / Синтай XT-244 с ПСМ КПП 4+1",
+        "brand": {
+          "@type": "Brand",
+          "name": "XingTai"
+        },
+        "category": "Минитракторы",
+        "url": "https://kupit-minitraktor.ru/minitraktori/traktor-xingtai-sintay/minitraktor-xingtai-sintay-xt-244-kpp-4h1-generation-3-luxe-s-psm",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Исполнение",
+            "value": "Generation 3 Luxe"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Двигатель",
+            "value": "KM385BT"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Тип двигателя",
+            "value": "дизельный"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Мощность",
+            "value": "24 л.с."
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Передачи",
+            "value": "(4 вперед + 1 назад) x 2"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Привод",
+            "value": "полный 4WD"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Блокировка",
+            "value": "планетарный механизм заднего моста"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Бортовые редукторы",
+            "value": "есть"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Рулевое управление",
+            "value": "с гидроусилителем"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Габариты",
+            "value": "2890 x 1530 x 1940 мм"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Средний расход топлива",
+            "value": "2 л/ч"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "ПСМ",
+            "value": "есть"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": 640000,
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "шт"
+          },
+          "url": "https://kupit-minitraktor.ru/minitraktori/traktor-xingtai-sintay/minitraktor-xingtai-sintay-xt-244-kpp-4h1-generation-3-luxe-s-psm",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Москва"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "Купить Минитрактор",
+            "url": "https://kupit-minitraktor.ru",
+            "areaServed": "Москва"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Product",
+        "name": "Минитрактор Xingtai / Синтай 244L с ПСМ",
+        "brand": {
+          "@type": "Brand",
+          "name": "XingTai"
+        },
+        "category": "Минитракторы",
+        "url": "https://kupit-minitraktor.ru/index.php?route=product/product&path=122_137&product_id=9571",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Двигатель",
+            "value": "KM385BT"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Тип двигателя",
+            "value": "дизельный"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Мощность",
+            "value": "24 л.с."
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Привод",
+            "value": "полный 4WD"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Блокировка",
+            "value": "планетарный механизм заднего моста"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Бортовые редукторы",
+            "value": "есть"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Рулевое управление",
+            "value": "с гидроусилителем"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Габариты",
+            "value": "2890 x 1530 x 1940 мм"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Средний расход топлива",
+            "value": "2 л/ч"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "ПСМ",
+            "value": "есть"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": 690000,
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "шт"
+          },
+          "url": "https://kupit-minitraktor.ru/index.php?route=product/product&path=122_137&product_id=9571",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Москва"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "Купить Минитрактор",
+            "url": "https://kupit-minitraktor.ru",
+            "areaServed": "Москва"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Product",
+        "name": "Минитрактор Xingtai / Синтай XT-254 Lux с ПСМ КПП 8+8",
+        "brand": {
+          "@type": "Brand",
+          "name": "XingTai"
+        },
+        "category": "Минитракторы",
+        "url": "https://kupit-minitraktor.ru/minitraktori/traktor-xingtai-sintay/minitraktor-xingtai-sintay-rd-254",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Двигатель",
+            "value": "КМ385ВТ"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Мощность",
+            "value": "25 л.с."
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Количество цилиндров",
+            "value": "3"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Передачи",
+            "value": "8 вперед, 8 назад"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Сцепление",
+            "value": "двухдисковое"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Привод",
+            "value": "подключаемый полный"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Частота вращения ВОМ",
+            "value": "540 и 1000 об/мин"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Количество шлицов ВОМ",
+            "value": "6"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Задняя сцепка",
+            "value": "трехточечная"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Объем топливного бака",
+            "value": "22 л"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Рулевое управление",
+            "value": "с гидроусилителем"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Запуск двигателя",
+            "value": "электростартер"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Масса прицепа",
+            "value": "до 4 тонн"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "ПСМ",
+            "value": "есть"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Гарантия",
+            "value": "12 месяцев"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": 720000,
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "шт"
+          },
+          "url": "https://kupit-minitraktor.ru/minitraktori/traktor-xingtai-sintay/minitraktor-xingtai-sintay-rd-254",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Москва"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "Купить Минитрактор",
+            "url": "https://kupit-minitraktor.ru",
+            "areaServed": "Москва"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "Product",
+        "name": "Минитрактор Xingtai / Синтай XT-304 Lux с ПСМ КПП 8+8",
+        "brand": {
+          "@type": "Brand",
+          "name": "XingTai"
+        },
+        "category": "Минитракторы",
+        "url": "https://kupit-minitraktor.ru/index.php?route=product/product&path=122_137&product_id=9570",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "КПП",
+            "value": "8+8"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Привод",
+            "value": "подключаемый полный"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Частота вращения ВОМ",
+            "value": "540 и 1000 об/мин"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Количество шлицов ВОМ",
+            "value": "6"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Задняя сцепка",
+            "value": "трехточечная"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Объем топливного бака",
+            "value": "22 л"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Рулевое управление",
+            "value": "с гидроусилителем"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Запуск двигателя",
+            "value": "электростартер"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Масса прицепа",
+            "value": "до 4 тонн"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "ПСМ",
+            "value": "есть"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Гарантия",
+            "value": "12 месяцев"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": 750000,
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "шт"
+          },
+          "url": "https://kupit-minitraktor.ru/index.php?route=product/product&path=122_137&product_id=9570",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Москва"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "Купить Минитрактор",
+            "url": "https://kupit-minitraktor.ru",
+            "areaServed": "Москва"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "Product",
+        "name": "Трактор Xingtai / Синтай XT-504C с кабиной",
+        "brand": {
+          "@type": "Brand",
+          "name": "Xingtai"
+        },
+        "category": "Тракторы и минитракторы",
+        "url": "https://market-tractor.ru/product/traktor-xingtai-sintay-xt-504c-s-kabinoy",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Артикул",
+            "value": "TR-02-0004"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Двигатель",
+            "value": "YD4100"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Тип двигателя",
+            "value": "дизельный"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Мощность",
+            "value": "50 л.с."
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Количество цилиндров",
+            "value": "4"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Привод",
+            "value": "полный 4x4"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Кабина",
+            "value": "есть"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Масса",
+            "value": "1890 кг"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "КПП",
+            "value": "усиленная механическая с боковым переключением"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Сцепление",
+            "value": "двухдисковое одноступенчатое сухое"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Передние шины",
+            "value": "7,5-16"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Задние шины",
+            "value": "11,2-28"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Количество гидропар",
+            "value": "1"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "ЭПСМ",
+            "value": "есть"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Гарантия",
+            "value": "1 год"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": 1450000,
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "шт"
+          },
+          "url": "https://market-tractor.ru/product/traktor-xingtai-sintay-xt-504c-s-kabinoy",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Москва"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "market-tractor.ru",
+            "areaServed": "Москва"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "Product",
+        "name": "Минитрактор Xingtai / Синтай XT-304",
+        "brand": {
+          "@type": "Brand",
+          "name": "Xingtai"
+        },
+        "category": "Тракторы и минитракторы",
+        "url": "https://market-tractor.ru/product/traktor-minitraktor-xingtai-sintay-xt-304",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Артикул",
+            "value": "TR-02-0017"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Мощность",
+            "value": "30 л.с."
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Тип двигателя",
+            "value": "дизельный"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Привод",
+            "value": "полный 4x4"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "КПП",
+            "value": "реверсивная"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Кабина",
+            "value": "отсутствует"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Передние шины",
+            "value": "6,5-16"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Задние шины",
+            "value": "11,2-24"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Гидроусилитель руля",
+            "value": "есть"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "ЭПСМ",
+            "value": "есть"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Гарантия",
+            "value": "1 год"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": 750000,
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "шт"
+          },
+          "url": "https://market-tractor.ru/product/traktor-minitraktor-xingtai-sintay-xt-304",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Москва"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "market-tractor.ru",
+            "areaServed": "Москва"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "Product",
+        "name": "Минитрактор Xingtai / Синтай XT-244 (8+8 реверс)",
+        "brand": {
+          "@type": "Brand",
+          "name": "Xingtai"
+        },
+        "category": "Тракторы и минитракторы",
+        "url": "https://market-tractor.ru/product/traktor-minitraktor-xingtai-sintay-xt-244-44-revers",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Артикул",
+            "value": "TR-02-0016"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Двигатель",
+            "value": "KM385BT"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Тип двигателя",
+            "value": "дизельный"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Мощность",
+            "value": "24 л.с."
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Количество цилиндров",
+            "value": "3"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Привод",
+            "value": "полный 4x4"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "КПП",
+            "value": "реверсивная"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Передачи",
+            "value": "8 вперед, 8 назад"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Частота вращения ВОМ",
+            "value": "540 и 720 об/мин"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Блокировка дифференциала",
+            "value": "принудительная блокировка планетарного механизма заднего моста"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "ЭПСМ",
+            "value": "есть"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Гарантия",
+            "value": "1 год"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": 650000,
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "шт"
+          },
+          "url": "https://market-tractor.ru/product/traktor-minitraktor-xingtai-sintay-xt-244-44-revers",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Москва"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "market-tractor.ru",
+            "areaServed": "Москва"
+          }
+        }
+      }
+    }
+  ],
+  "provider": {
+    "@type": "Organization",
+    "name": "Купить Минитрактор",
+    "url": "https://kupit-minitraktor.ru",
+    "areaServed": "Москва",
+    "knowsAbout": [
+      "минитрактор"
+    ],
+    "sameAs": [
+      "https://github.com/microgrin71-sudo/moscow-minitractors-benchmark"
+    ]
+  }
+}
